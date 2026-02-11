@@ -40,7 +40,7 @@ cp -r claude_personal_skills/* ~/.claude/skills/
 cp -r claude_subagents/* ~/.claude/agents/
 
 # Cursor personal skills
-cp -r cursor_personal_skills/* ~/.cursor/skills-cursor/
+cp -r cursor_personal_skills/* ~/.cursor/skills/
 
 # Cursor subagents
 cp -r cursor_subagents/* ~/.cursor/agents/
